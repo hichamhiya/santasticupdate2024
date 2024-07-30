@@ -1,0 +1,73 @@
+{
+    "data" : [
+        {
+          
+            "network": "admob",
+            
+            "max_ban": "41520d44e3d06b49",
+            "max_int": "261588b3776ba31b",
+            
+            "is_app_key": "2386892364823",
+            "is_ban": "2386892364823",
+            "is_int": "2386892364823",
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admobappid":"ca-app-pub-3940256099942544~3347511713",
+            "name": "Santa Claus",
+            "photo": "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/23.webp",
+            "voice": "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/audiosanta.mp3",
+            "video": "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/videosanta.mp4",
+            "stories": [
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/A Santa Claus-3.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/3d realistic Santa Claus during Christmas give pre (1).webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/3d realistic Santa Claus during Christmas give pre (2).webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/3d realistic Santa Claus during Christmas give pre (3).webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/3d realistic Santa Claus during Christmas give pre.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/3d realistic sharp Santa Claus during Christmas.8k (1).webp"
+            ],
+            "wallpapers": [
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/1.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/2.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/3.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/4.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/5.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/6.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/7.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/8.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/9.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/10.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/11.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/12.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/13.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/14.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/15.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/16.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/17.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/18.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/19.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/20.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/21.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/22.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/23.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/24.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/25.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/26.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/27.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/28.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/29.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/30.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/31.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/32.webp",
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/33.webp",
+                
+
+
+
+
+                
+                "https://raw.githubusercontent.com/hichamhiya/callsantaotel/main/34.webp"
+            ]
+          
+        }
+    ]
+}
