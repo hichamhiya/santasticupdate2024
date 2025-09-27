@@ -17,8 +17,8 @@
             "photo": "https://raw.githubusercontent.com/hichamhiya/santasticupdate2024/main/23.webp",
             "voice": "https://raw.githubusercontent.com/hichamhiya/santasticupdate2024/main/audiosanta.mp3",
             "video": "https://raw.githubusercontent.com/hichamhiya/santasticupdate2024/main/Talk to Santa Claus.mp4",
-           
-             
+             "showFakeAudio":false,
+            "tiktokAppID":"",
             "stories": [
                 "https://raw.githubusercontent.com/hichamhiya/santasticupdate2024/main/A Santa Claus-3.webp",
                 "https://raw.githubusercontent.com/hichamhiya/santasticupdate2024/main/3d realistic Santa Claus during Christmas give pre (1).webp",
