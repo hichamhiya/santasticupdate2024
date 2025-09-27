@@ -20,6 +20,8 @@
             "voice": "https://raw.githubusercontent.com/hichamhiya/santasticupdate2024/main/audiosanta.mp3",
             "video": "https://raw.githubusercontent.com/hichamhiya/santasticupdate2024/main/Talk to Santa Claus.mp4",
              "showFakeAudio":false,
+            "tiktokAppID":"",
+
             
             "stories": [
                 "https://raw.githubusercontent.com/hichamhiya/santasticupdate2024/main/A Santa Claus-3.webp",
