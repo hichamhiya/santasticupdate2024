@@ -2,7 +2,7 @@
     "data" : [
         {
           
-            "network": "no",
+            "network": "is",
             
             "max_ban": "41520d44e3d06b49",
             "max_int": "261588b3776ba31b",
@@ -10,8 +10,8 @@
 
             
             "is_app_key": "16b0c294d",
-            "is_ban": "0atp850gi62ce9ic",
-            "is_int": "skygae5nwrh9a8uc",
+            "is_ban": "ymtbv4vsc7l7emhm",
+            "is_int": "kkjfxskz6fgclzz1",
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
             "admobappid":"ca-app-pub-3940256099942544~3347511713",
